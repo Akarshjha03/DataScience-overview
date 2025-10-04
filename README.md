@@ -4,6 +4,7 @@ Welcome to my data science practices repository! This repository explores variou
 
 ## Steps to Open Jupyter Notebook in Windows 11
 
+- First Install Jupyter Notebook in your environment by "pip install notebook".
 - Create a new folder.
 - In the folder's path type cmd.
 - A command prompt will open on that location.
